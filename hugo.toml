@@ -4,12 +4,8 @@ title = 'Dev Ops Wannabe'
 theme ='paper'
 
 [params]
-github = 'YOUR_GITHUB_ID'
-linkedin = 'YOUR_LINKEDIN_ID'   
-
-# home page profile
-avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+github = 'https://github.com/VonYuan'
+linkedin = 'https://www.linkedin.com/in/voonyuan/'
+avatar = 'xkalle101@gmail.com'                 # gravatar email or image url
 name = 'Voon Yuan'
 bio = 'Recent Fresh Graduate'
-
-comments = false
