@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+nav_enabled: true
+---
 # Interconnection Between VLANs
 
 VLAN technology divides a large local area network (LAN) into multiple smaller LANs and isolates broadcast domains, preventing communication between users in different broadcast domains, as shown in the diagram below.
