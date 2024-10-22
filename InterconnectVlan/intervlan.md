@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Inter-VLAN Communication
 nav_enabled: true
 ---
 
