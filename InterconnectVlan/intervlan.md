@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_enabled: true
+---
+
 # 2. Methods for Inter-VLAN Communication
 
 ## (1) Using Router Physical Interfaces
