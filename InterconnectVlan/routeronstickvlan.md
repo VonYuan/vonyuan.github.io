@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Router-on-a-Stick
 nav_enabled: true
 ---
 
