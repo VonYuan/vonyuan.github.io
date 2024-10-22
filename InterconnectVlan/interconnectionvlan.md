@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: HoInterconnection Between VLANs
 nav_enabled: true
 ---
 # Interconnection Between VLANs
