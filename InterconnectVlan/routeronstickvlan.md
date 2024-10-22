@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_enabled: true
+---
+
 # (2) Using Router Sub-Interfaces (Router-on-a-Stick)
 
 Configure the link between the switch and the router as a Trunk link, and create sub-interfaces on the router to support VLAN routing. (Sub-interface: A logical interface created on a physical interface of the router that functions like a physical interface.)
