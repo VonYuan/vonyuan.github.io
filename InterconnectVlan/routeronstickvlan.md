@@ -2,6 +2,9 @@
 layout: default
 title: Router-on-a-Stick
 nav_enabled: true
+parent: InterconnectVlan
+nav_order: 3
+nav_enabled: true
 ---
 
 # (2) Using Router Sub-Interfaces (Router-on-a-Stick)
