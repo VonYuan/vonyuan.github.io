@@ -1,6 +1,8 @@
 ---
 layout: default
 title: VLAN IF
+parent: InterconnectVlan
+nav_order: 1
 nav_enabled: true
 ---
 
