@@ -2,6 +2,9 @@
 layout: default
 title: Inter-VLAN Communication
 nav_enabled: true
+parent: InterconnectVlan
+nav_order: 2
+nav_enabled: true
 ---
 
 # 2. Methods for Inter-VLAN Communication
